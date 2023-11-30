@@ -1,9 +1,10 @@
 # BikeShare Data Analysis
 
-
-
 ----
 $ python3 bikeshare.py 
+----
+
+----
 Hello! Let's explore some US bikeshare data!
 Which city do you want to explore Chicago, New York or Washington?
 > Chicago
